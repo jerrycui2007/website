@@ -16,6 +16,13 @@ export default function Home() {
         width={896}
         height={1195}
       />
+      <Image
+        src="/Milk%20Zzz%20GIF.gif"
+        alt="milk zzz"
+        width={480}
+        height={376}
+        unoptimized
+      />
     </div>
   );
 }
