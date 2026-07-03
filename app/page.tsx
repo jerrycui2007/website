@@ -23,6 +23,13 @@ export default function Home() {
         height={376}
         unoptimized
       />
+      <Image
+        src="/Jane%20Doe%20Milk%20GIF.gif"
+        alt="jane doe milk"
+        width={480}
+        height={376}
+        unoptimized
+      />
     </div>
   );
 }
